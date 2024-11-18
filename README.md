@@ -1,10 +1,7 @@
 
 
 #Hackmd Share link 
-
-https://hackmd.io/L5wGxixhRR-_TyZ_uDZkag
-
-https://hackmd.io/@bfrp19OgTt2XfKRmfav9kQ/Sk_y_TCyJx
+https://hackmd.io/@FT_nSa8kT3CXNCUEPrdVsw/H1DglAdGJe
 
 # Project 5 - Triviagame 
 
